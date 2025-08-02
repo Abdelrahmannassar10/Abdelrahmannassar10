@@ -76,7 +76,7 @@ Faculty of Computer and Information Sciences
 Thanks for visiting my profile ✨
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Nassar-dev253&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Nassar-dev253&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahmannassar10&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahmannassar10&layout=compact)
 
 
